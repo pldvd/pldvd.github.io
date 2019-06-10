@@ -16,18 +16,19 @@ body {
 }
 
 main {
-  width: 80%;
+  width: 70%;
   height: 70%;
 }
 
 .orange {
-  color: #a64942;
+  color: #fe5f55;
 }
 
 .aboutme {
   margin-top: 5%;
   line-height: 1.5em;
   letter-spacing: 2px;
+  text-align: justify;
 }
 
 ul {
