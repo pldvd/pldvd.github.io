@@ -16,14 +16,35 @@ body {
 }
 
 main {
-  width: 70%;
+  width: 80%;
   height: 70%;
 }
 
 .orange {
-  color: #fe5f55;
+  color: #a64942;
 }
 
+.aboutme {
+  margin-top: 5%;
+  line-height: 1.5em;
+  letter-spacing: 2px;
+}
+
+ul {
+  margin-top: 5%;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  letter-spacing: 2px;
+  font-weight: bold;
+  background-color: #a64942;
+  padding: 1em;
+  margin: 1em;
+  white-space: nowrap;
+}
 /* main {
   background-color: #222831;
   height: 100vh;
